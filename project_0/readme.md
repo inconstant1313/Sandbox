@@ -1,8 +1,8 @@
 # Project 0. Guess the number.
 
 ## Contents
-[1. Description of the project](https://github.com/inconstant1313/DSPR_119/blob/main/project_0/readme.md#description-of-the-project)
-[2. End of page](https://github.com/inconstant1313/DSPR_119/blob/main/project_0/readme.md#end-of-page)
+* [1. Description of the project](https://github.com/inconstant1313/DSPR_119/blob/main/project_0/readme.md#description-of-the-project)
+* [2. End of page](https://github.com/inconstant1313/DSPR_119/blob/main/project_0/readme.md#end-of-page)
 
 ### Description of the project
 Guess the number guessed by the computer in the minimum number of attempts.
