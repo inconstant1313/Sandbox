@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
+[2. Какой кейс решаем?](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)  
+[3. Краткая информация о данных](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)  
+[5. Результат](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)    
+[6. Выводы](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток. При этом попыток не должно быть больше 20.
@@ -30,7 +30,7 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Этапы работы над проектом  
 1. Изучили работу базовых решений (game.py и game_v2.py).
@@ -38,16 +38,16 @@
 3. Внесли изменения в код game_v2.py согласно выбранному методу.
 4. Проверили, что число попыток сократилось до необходимого количества. Также проверили, что при увеличении количества проходов результат сохраняется.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
 Среднее количество попыток при использовании Binary search algorithm сокращается до 5-6 попыток.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
 Использование Binary search algorithm сокращает количество попыток в среднем на 95% в сравнении с методом рандомного подбора.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
