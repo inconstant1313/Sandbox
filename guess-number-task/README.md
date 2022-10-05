@@ -33,9 +33,9 @@
 :arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Этапы работы над проектом  
-1. Изучили работу базовых решений (game.py и game_v2.py).
+1. Изучили работу базовых решений ([game.py](https://github.com/inconstant1313/DSPR_119/blob/main/guess-number-task/game.py) и [game_v2.py](https://github.com/inconstant1313/DSPR_119/blob/main/guess-number-task/game_v2.py)).
 2. Изучили простые методы поиска в массиве(диапазоне) чисел. Выбрали подходящий метод (Binary search).
-3. Внесли изменения в код game_v2.py согласно выбранному методу.
+3. Внесли изменения в код [game_v2.py](https://github.com/inconstant1313/DSPR_119/blob/main/guess-number-task/game_v2.py) согласно выбранному методу. Сохранили результат в [game_v3.py](https://github.com/inconstant1313/DSPR_119/blob/main/guess-number-task/game_v3.py)
 4. Проверили, что число попыток сократилось до необходимого количества. Также проверили, что при увеличении количества проходов результат сохраняется.
 
 :arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
