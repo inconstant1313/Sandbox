@@ -57,3 +57,4 @@ def score_game(binary_predict) -> int:
 if __name__ == "__main__":
     # RUN
     score_game(binary_predict)
+    
