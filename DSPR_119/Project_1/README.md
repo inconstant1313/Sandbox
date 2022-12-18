@@ -1,20 +1,28 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
-[2. Какой кейс решаем?](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)  
-[3. Краткая информация о данных](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
-[4. Этапы работы над проектом](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)  
-[5. Результат](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)    
-[6. Выводы](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B) 
+[1. Описание проекта](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
+[2. Цель проекта](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1#%D1%86%D0%B5%D0%BB%D1%8C-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[3. Краткая информация о данных](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)  
+[5. Результат](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)    
+[6. Выводы](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B) 
 
 ### Описание проекта    
 Часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме. Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Необходимо преобразовать, исследовать и очистить данные перед построением модели.
 
+:arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+
 ### Цель проекта    
 Получить базу данных с очищенными от выбросов, преобразованными данными для использования при обучении модели
 
-**Этапы работы над проектом**  
+:arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+
+### Краткая информация о данных
+База данных находится на сервисе для хранения Google Disk: https://drive.google.com/file/d/13TqlKTc_v6FsUH8VzLtpH_3P0Jf3P6lO/view?usp=share_link .
+База данных представляет собой файл в формате csv, где данные отделены символом ';'. Состоит из 12 столбцов и 44744 строк типа данных object, имеются пустые значения в столбцах: Опыт работы, Последнее/нынешнее место работы, Последняя/нынешняя должность. Все преобразования и графики будут оформлены в Jupiter Notebook [Project_1.](https://github.com/inconstant1313/DSPR_119/blob/main/DSPR_119/Project_1/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb).
+
+**План работы над проектом**  
 - Базовый анализ структуры данных.
 - Преобразование данных.
 - Разведывательный анализ данных.
@@ -33,27 +41,24 @@
 - Учимся находить выбросы (аномалии) и очищать базу от выбросов и ненужной информации.
 - Учимся загружать и выгружать данные из/в формат csv.
 
-### Краткая информация о данных
-База данных представляет собой файл в формате csv, где данные отделены символом ';'. База данных состоит из 12 столбцов и 44744 строк типа данных object, имеются пустые значения в столбцах: Опыт работы, Последнее/нынешнее место работы, Последняя/нынешняя должность. Все преобразования и графики будут оформлены в Jupiter Notebook.
-
-:arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Этапы работы над проектом  
-1. Изучили работу базовых решений ([game.py](https://github.com/inconstant1313/DSPR_119/blob/main/guess-number-task/game.py) и [game_v2.py](https://github.com/inconstant1313/DSPR_119/blob/main/guess-number-task/game_v2.py)).
-2. Изучили простые методы поиска в массиве(диапазоне) чисел. Выбрали подходящий метод (Binary search).
-3. Внесли изменения в код [game_v2.py](https://github.com/inconstant1313/DSPR_119/blob/main/guess-number-task/game_v2.py) согласно выбранному методу. Сохранили результат в [game_v3.py](https://github.com/inconstant1313/DSPR_119/blob/main/guess-number-task/game_v3.py)
-4. Проверили, что число попыток сократилось до необходимого количества. Также проверили, что при увеличении количества проходов результат сохраняется.
+1. Исследование структуры данных базы резюме из HeadHunter.
+2. Преобразование данных в признаках, которые нам необходимы для обучения модели.
+3. Исследование зависимостей в данных и построение графиков этих зависимостей.
+4. Очистка данных от пустых значений и выбросов.
 
 :arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
-Среднее количество попыток при использовании Binary search algorithm сокращается до 5-6 попыток.
+В результате получили адаптированную и очищенную для модели базу данных: [ссылка на очищенную базу данных.](https://drive.google.com/file/d/1WAeWSg6mSE8ordZ7O-yoG-ITPTeq-JY2/view?usp=share_link). Верно ответили на все контрольные вопросы и надлежащим образом оформили проект на Git Hub: [ссылка на проект.](https://github.com/inconstant1313/DSPR_119/tree/main/DSPR_119/Project_1)
 
 :arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
-Использование Binary search algorithm сокращает количество попыток в среднем на 95% в сравнении с методом рандомного подбора.
+Благодаря преобразованиям и очистке удалось избавиться от пустых значений, количество записей сократилось на 259 (за счет удаления выбросов и пустых значений) и теперь составляет 44485. Количество столбцов увеличилось практически в два раза за счет признаков-мигалок, но количество признаков с типом данных object сократилось с 12 до 8, при этом значимые признаки были преобразованы в форматы данных удобные для модели (числовой и булевый). Визуализация в значительной мере помогла провести анализ и выявить аномалии, а метод z-отклонений помог найти некоторые из выбросов в признаке 'Возраст'. В итоге метод ручного поиска и здравого смысла в сочетании с методом z-отклонений помогли оптимизировать базу данных резюме для дальнейшего обучения модели на ее основе.
 
 :arrow_up:[к оглавлению](https://github.com/inconstant1313/DSPR_119/tree/main/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
