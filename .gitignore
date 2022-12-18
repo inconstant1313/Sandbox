@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 DSPR_119/Python_9/sandbox.py
+DSPR_119/Project_1/data/ExchangeRates.csv
+DSPR_119/Project_1/data/dst-3.0_16_1_hh_database.csv
+DSPR_119/Project_1/data/dst-3.0_16_1_hh_database_cleaned.csv
