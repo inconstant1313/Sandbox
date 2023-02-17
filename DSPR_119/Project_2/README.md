@@ -25,7 +25,17 @@
 
 ### Краткая информация о данных
 База данных находится в СУБД PosgreSQL. Все необходимые таблицы находятся в схеме public базы данных project_sql. База состоит из 5 таблиц: ***vacancies***, ***areas***, ***employers***, ***industries*** и ***emplouers_industries***. 
-Все исследования и графики будут оформлены в Jupiter Notebook [Project_2.](https://github.com/inconstant1313/DSPR_119/blob/main/DSPR_119/Project_2/Project_2.ipynb). Для удобства проект сохранен также в формате html и находится по [ссылке.](https://github.com/inconstant1313/DSPR_119/blob/main/DSPR_119/Project_2/Project_2.html)
+Все исследования и графики будут оформлены в Jupiter Notebook [Project_2](https://github.com/inconstant1313/DSPR_119/blob/main/DSPR_119/Project_2/Project_2.ipynb). Для удобства проект сохранен также в формате html и находится по [ссылке](https://github.com/inconstant1313/DSPR_119/blob/main/DSPR_119/Project_2/Project_2.html). 
+
+Настройки для подключения к базе данных должны хранится в файле settings.ini в формате:
+
+``[POSTGRESQL]
+DBNAME =
+USER =
+PASSWORD =
+HOST =
+PORT =
+``
 
 **План работы над проектом**  
 - Знакомство с данными
