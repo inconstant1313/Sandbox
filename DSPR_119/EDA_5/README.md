@@ -40,7 +40,7 @@ group	            группа теста (контрольная — А или 
 purchase	        признак покупки: совершил ли пользователь покупку тура (1 — да, 0 — нет)
 price	            цена купленного тура (если покупка не состоялась, цена равна 0)
 ```
-Все исследования и графики будут оформлены в Jupiter Notebook [Template_EDA_5](https://github.com/inconstant1313/DSPR_119/blob/main/DSPR_119/EDA_5/EDA_5_theory.ipynb). 
+Все исследования и графики будут оформлены в Jupiter Notebook [Template_EDA_5](https://github.com/inconstant1313/DSPR_119/blob/main/DSPR_119/EDA_5/Template_EDA_5.ipynb). 
 
 Контроль версионности пакетов [requirements](https://github.com/inconstant1313/DSPR_119/blob/main/DSPR_119/EDA_5/requirements.txt). 
 
